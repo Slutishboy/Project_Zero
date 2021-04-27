@@ -1,0 +1,40 @@
+p{
+    color: rgb(171, 27, 255);
+    font-size: larger;
+}
+a:hover{
+    color: teal;
+    font-size: larger;
+    text-decoration: none;
+}
+h2+p .otp{
+    color: yellowgreen;
+}
+#CVV{
+    background-color: black;
+    color: brown;
+}
+.XYZ
+{
+    background-color: rgb(150, 255, 89);
+    color: brown;
+}#EXP{
+    background-color: black;
+    color: brown;
+}
+li[class="abc"]{
+    font-size: 150%;
+}
+li[class]{
+    background-color: burlywood;
+}
+li[id]
+{
+font-size: 300%;
+}
+.op{
+    background-color:skyblue
+}
+*{
+    list-style: square;
+}

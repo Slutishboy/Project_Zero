@@ -1,0 +1,101 @@
+nav a{
+    color: white;
+    
+    font-size: 30px;
+    float: left;
+    padding: 20px;
+}
+*{
+    text-decoration: none;
+    padding: 0cm;
+    margin: 0cm;
+  
+}
+nav{
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+    text-align: center;
+   }
+   .head{
+  
+    text-align: center;
+    font-size: 500%;
+    padding: 3%;
+   }
+   #abc{
+    background-color: rgb(255, 102, 0);
+    margin: 0%;
+   }
+   nav a:hover{
+    color: rgb(255, 102, 0);  
+   }
+   table,tr,th,td{
+       border: 2px solid black;
+       border-collapse: collapse;
+       padding: 10px;
+       border-spacing: 5px;
+   }
+   th{
+       background-color: burlywood;
+   }
+   td{
+       background-color: cornsilk;
+   }
+   #first,#second,#third,#fourth,#fifth{
+       font-size: 250%;
+     
+       
+       text-align: center;
+       text-decoration: black;
+       text-decoration-line: underline;
+   }
+   
+   #one{
+       padding-bottom: 1%;
+       background-color: blanchedalmond;
+       border: solid black;
+   }
+   #two{
+       padding-bottom: 5%;
+       background-color: blanchedalmond;
+       border: solid black;
+   }
+   #three,#four,#five{
+    padding-bottom: 5%;
+    background-color: blanchedalmond;
+    border: solid black;
+}
+   #second,#first,#third,#fourth,#fifth{
+       padding-bottom: 5%;
+       padding-top: 5%;
+   }
+   #x{
+       margin-left: 1%;
+   }
+  h5{
+      text-align: center;
+      font-size: large;
+  }
+  h3+a{
+      text-align: center;
+     display: inline-block;
+     padding-bottom: 1%;
+     color: black;
+     text-decoration-line: underline;
+
+  }
+  #five{
+    text-align: center;
+  }
+  h3+a:hover{
+      color: chocolate;
+  }
+  footer a{
+      color: white;
+      padding: 2%;
+      text-align: center;
+      
+  }
+  footer a:hover{
+    color: chocolate;
+  }
